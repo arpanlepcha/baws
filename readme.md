@@ -1,4 +1,4 @@
-# baws: Brandon's Awesome Web Sockets #
+# baws (bh's awesome WebSockets) #
 
 I found myself writing lots of Python/JavaScript web applications
 involving WebSockets with lots of repetitive code. I tried finding a
